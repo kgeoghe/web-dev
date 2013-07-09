@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kevin Geoghegan's Journal</title><link href="http://www.kevingeo.com/" rel="alternate"></link><link href="http://www.kevingeo.com/feeds/all.atom.xml" rel="self"></link><id>http://www.kevingeo.com/</id><updated>2013-07-09T18:54:30Z</updated></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kevin Geoghegan's Journal</title><link href="http://www.kevingeo.com/" rel="alternate"></link><link href="http://www.kevingeo.com/feeds/all.atom.xml" rel="self"></link><id>http://www.kevingeo.com/</id><updated>2013-07-09T00:00:00-05:00</updated><entry><title>Yet Another Page</title><link href="http://www.kevingeo.com/yet-another-page.html" rel="alternate"></link><updated>2013-07-09T00:00:00-05:00</updated><author><name>Kevin Geoghegan</name></author><id>tag:www.kevingeo.com,2013-07-09:yet-another-page.html</id><summary type="html">&lt;h2&gt;Here is Another Page to Look At&lt;/h2&gt;
+&lt;p&gt;And here is some text.&lt;/p&gt;</summary></entry><entry><title>My Favorite Language</title><link href="http://www.kevingeo.com/my-favorite-language.html" rel="alternate"></link><updated>2013-07-08T00:00:00-05:00</updated><author><name>Kevin Geoghegan</name></author><id>tag:www.kevingeo.com,2013-07-08:my-favorite-language.html</id><summary type="html">&lt;h2&gt;This is my favorite language&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Item one&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Item two&lt;/p&gt;
+&lt;p&gt;This is some code.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary></entry></feed>
