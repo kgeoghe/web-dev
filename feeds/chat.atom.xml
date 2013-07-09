@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kevin Geoghegan's Journal</title><link href="http://www.kevingeo.com/" rel="alternate"></link><link href="http://www.kevingeo.com/feeds/chat.atom.xml" rel="self"></link><id>http://www.kevingeo.com/</id><updated>2013-07-09T00:00:00-05:00</updated><entry><title>Yet Another Page</title><link href="http://www.kevingeo.com/yet-another-page.html" rel="alternate"></link><updated>2013-07-09T00:00:00-05:00</updated><author><name>Kevin Geoghegan</name></author><id>tag:www.kevingeo.com,2013-07-09:yet-another-page.html</id><summary type="html">&lt;h2&gt;Here is Another Page to Look At&lt;/h2&gt;
-&lt;p&gt;And here is some text.&lt;/p&gt;</summary></entry></feed>
